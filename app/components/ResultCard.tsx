@@ -56,7 +56,7 @@ export function ResultCard({ result, onReset }: ResultCardProps) {
           transition={{ delay: 0.8 }}
           className="text-slate-400 text-sm text-center mt-6"
         >
-          ⚠️ AI 분석 결과는 참고용이며, 의심스러운 경우 관련 기관에 문의하세요.
+          ⚠️ 분석 결과는 참고용이며, 의심스러운 경우 관련 기관에 문의하세요.
         </motion.p>
       </div>
     </motion.div>

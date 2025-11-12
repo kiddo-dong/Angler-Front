@@ -95,7 +95,7 @@ export function LoadingIndicator() {
         >
           메시지를 낚아올리고 있습니다...
         </motion.p>
-        <p className="text-[#64748B]">AI가 피싱 여부를 분석 중입니다</p>
+        <p className="text-[#64748B]">피싱 여부를 분석 중입니다</p>
       </div>
     </div>
   );

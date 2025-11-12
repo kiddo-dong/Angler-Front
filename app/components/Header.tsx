@@ -13,7 +13,7 @@ export function Header() {
           </div>
           <div>
             <h1 className="text-2xl font-bold text-foreground">Angler</h1>
-            <p className="text-xs text-muted-foreground">피싱 방어 시스템</p>
+            <p className="text-xs text-muted-foreground">피싱 감지 서비스</p>
           </div>
         </div>
       </div>

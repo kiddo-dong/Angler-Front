@@ -160,7 +160,7 @@ export function UploadArea({ onAnalyze }: UploadAreaProps) {
           disabled={isAnalyzeDisabled}
         >
           <span className="mr-2">🔍</span>
-          AI 분석 시작하기
+          분석 시작하기
         </Button>
       </div>
     </div>

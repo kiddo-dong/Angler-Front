@@ -60,7 +60,7 @@ export default function Home() {
                   <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-primary opacity-75"></span>
                   <span className="relative inline-flex rounded-full h-2 w-2 bg-primary"></span>
                 </span>
-                AI 기반 실시간 분석
+                AI Vision 기반 실시간 분석
               </div>
               <h2 className="text-4xl font-bold text-foreground mb-4 tracking-tight">
                 피싱 문자 탐지 서비스
